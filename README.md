@@ -17,9 +17,9 @@ El desarrollo de toda Aplicación Web requiere seguir un [proceso estructurado](
 
 ### Curso Escolar 20XX-20XX
 
-### Autor: [Nombre del alumno autor](Enlace a su cuenta de gitHub)
+### Autor: [Carlos Muñoz Iglesias](https://github.com/romitus)
 
-### Tutor: [Nombre del profesor tutor](Enlace a su cuenta de gitHub)
+### Tutor: [Chema Duran García](https://github.com/chemaduran)
 
 ### Fecha de Inicio: DD-MM-YYYY
 
@@ -27,9 +27,7 @@ El desarrollo de toda Aplicación Web requiere seguir un [proceso estructurado](
 
 ## Breve descripción del proyecto
 
-Si ya tienes una idea para tu aplicación, explícala brevemente. Si no es así, lo que realmente necesitas es **buscar un problema o necesidad a la que darle solución**, y estos **están por todas partes**. Así que trata de buscar problemas o necesidades en tu vida diaria y realiza una lista. Una vez que tengas una lista exhaustiva, ya puedes empezar a pensar en **cómo puedes resolverlos**.
-
-En este apartado el alumno debe hacer una breve descripción del proyecto que vaya a realizar. Esta descripción no será ua descripción detallada, será una presentación general con no más de 10 líneas.
+El proyecto se tratará de realizar un tracker de precios de diferentes productos. para que el usuario pueda elegir el producto al mejor precio con su respectiva localizacion.
 
 ## Definir el objetivo de la aplicación
 
