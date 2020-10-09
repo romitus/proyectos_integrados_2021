@@ -10,11 +10,11 @@
 
 ### Fecha de Finalización: DD-MM-YYYY to be determined
 
-## Breve descripción del proyecto
+## Descripción del proyecto
 
 El proyecto se tratará de realizar un tracker de precios de diferentes productos. para que el usuario pueda elegir el producto al mejor precio con su respectiva localizacion.
 
-## Definir el objetivo de la aplicación
+## Objetivo de la aplicación
 
 - **¿Qué va a hacer la aplicación?**
     La aplicacion va a rastrear un conjunto de webs y va a recoger el precio de los productos en una base de datos para finalmente proporcionarselo a los         usuarios.
