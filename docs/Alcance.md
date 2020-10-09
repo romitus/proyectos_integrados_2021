@@ -7,7 +7,8 @@ El proyecto se encargará de realizar un rastreo de los precios de diferentes pa
 
 ## Tareas que mi proyecto llevará a cabo
 
-- La aplicacion permite recoger los precios de distintas paginas Web.
-- Permitir la creacion de usuarios y la persistencia de datos de los mismos.
+- La aplicación permite recoger los precios de distintas paginas Web.
+- Permitir la creación de usuarios y la persistencia de datos de los mismos.
 - Mostrar al usuario un historico de los diferentes precios que ha habido en un periodo de tiempo.
 - Notificar al usuario de un cambio de precios o si el producto ha llegado al precio deseado.
+- En el futuro se añadiran nuevos alcances.
