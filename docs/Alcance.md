@@ -2,7 +2,7 @@
 
 Esta aplicación pretende gestionar los datos de colaboradores, beneficiarios y talleres que organiza una asociación. Será una herramienta útil para conocer la demanda de los beneficiaros y la disponibilidad de colaboradores que puedan atender esa demanda.
 
-## Alcance del proyectos
+## Alcance del proyecto
 El proyecto se encargará de realizar un rastreo de los precios de diferentes paginas web para posteriormente persistirlos en una base de datos y posteriormente mostrarle al usuario el precio más bajo del producto el historico de precios del mismo y notificar al usuario de un posible cambio de precios o alcance el precio deseado por el usuario.
 
 ## Tareas que mi proyecto llevará a cabo
