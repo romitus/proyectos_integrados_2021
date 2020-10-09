@@ -19,9 +19,13 @@ El proyecto se tratará de realizar un tracker de precios de diferentes producto
 **Tener una gran idea** o encontrar un punto del mercado al que no se esté dando un producto o servicio es el punto de partida en cada nuevo proyecto. Antes de comenzar debes **definir claramente el propósito y la misión de la aplicación web**:
 
 - **¿Qué va a hacer la aplicación?**
+    La aplicacion va a rastrear un conjunto de webs y va a recoger el precio de los productos en una base de datos para finalmente proporcionarselo a los         usuarios.
 - **¿Cuál es su atractivo principal?**
+    El atractivo principal es poder entregar a los usuarios la informacion del productos mas bajo y el historico de precios de los ultimos dias.
 - **¿Qué problema concreto va a resolver?**
+    El problema a resolver sería que el susuario no compre un producto con un precio desorbitado.
 - **¿Qué necesidad va a cubrir?**
+    La necesidad a cubrir darle la oportunidad de encontrar el precio más barato.
 
 ## Prototipo de la Interfaz del proyecto
 
